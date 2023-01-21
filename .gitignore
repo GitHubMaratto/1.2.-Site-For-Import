@@ -1,4 +1,4 @@
-/tmp
+tmp/
 *_backup
 *_old
 Thumbs.db
